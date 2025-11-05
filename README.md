@@ -2,7 +2,7 @@ README.md
 
 # 👋 Hello, I am Giorgi Varadashvili
 <br>
-![github](https://github.com/user-attachments/assets/1efa5f13-02c4-4bc6-8e54-e78632e3dec3)
+![github](https://github-production-user-asset-6210df.s3.amazonaws.com/155677343/355991318-1efa5f13-02c4-4bc6-8e54-e78632e3dec3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251105T104709Z&X-Amz-Expires=300&X-Amz-Signature=56dce3c46f15cdee6e376d778bf2e1f71f60aa7d13304c96e533653c4570adda&X-Amz-SignedHeaders=host)
 <br>
 <br>
 💻 Full-Stack Developer (Frontend + Backend) 
