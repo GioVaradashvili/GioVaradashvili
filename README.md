@@ -5,12 +5,15 @@ README.md
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br>
 <h1> SKILS </h1>
-💻 Full-Stack Developer (Frontend + Backend) 
+💻 Full-Stack Developer (Frontend + Backend)
+<br>
 🎨 Graphic Desginer (Canva + Figma)
+<br>
 🤖 AI (C + C# + C++)
+<br>
 🎮 Game Developer (Lua + Unity)
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
 <br>
 🎯 Goal-Oriented Academy: Mentor's Assistant, Crew Leader, Mini-Mentor, Mini-Leader Controller
 <br>
