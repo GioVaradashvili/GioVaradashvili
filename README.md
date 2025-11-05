@@ -9,8 +9,7 @@ README.md
          width="50" 
          alt="Code Icon GIF"
          style="vertical-align: middle;"> 
-    
-    <h2 style="display: inline-block; margin: 0; padding-left: 20px; vertical-align: middle; position: relative; top: 5px;">SKILLS</h2>
+    <h1>SKILS</h1>
 </div>
 💻 Full-Stack Developer (Frontend + Backend)
 <br>
