@@ -47,5 +47,5 @@ README.md
 [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/GioVaradashvili)  
 [![Facebook](https://img.shields.io/badge/-Facebook-B1361E?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/varadashvili.giorgi)  
 
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
 ---
