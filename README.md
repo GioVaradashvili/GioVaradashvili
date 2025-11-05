@@ -4,10 +4,40 @@ README.md
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br>
-<div class="skills-container">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" alt="Code Icon GIF">
-  <h1> SKILLS </h1> 
-</div>
+     <style>
+        /* CSS სტილები */
+        body {
+            background-color: #1a1a1a; /* ფონი, როგორც თქვენს ორიგინალ სურათზე */
+            color: white; 
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .skills-container {
+            /* Flexbox გამოიყენება ელემენტების ერთ ხაზზე გასასწორებლად */
+            display: flex;       
+            align-items: center; /* ვერტიკალური გასწორება ცენტრში */
+            gap: 20px;           /* დაშორება სურათსა და ტექსტს შორის */
+        }
+
+        .skills-container h1 {
+            /* სათაურის სტილი */
+            font-size: 5em;      /* დიდი ზომა */
+            font-weight: bold;
+            margin: 0;           /* `<h1>` ტეგის დეფოლტ მარჯინების მოცილება */
+            letter-spacing: 2px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="skills-container">
+        <img 
+            src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
+            width="50" 
+            alt="Code Icon Animation"
+        >
+        <h1>SKILLS</h1> 
 💻 Full-Stack Developer (Frontend + Backend)
 <br>
 🎨 Graphic Desginer (Canva + Figma)
