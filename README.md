@@ -31,7 +31,11 @@ README.md
 ![Javascript](https://img.shields.io/badge/-Javascript-1572B6?style=flat&logo=js3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
+![React](https://img.shields.io/badge/-React-F05032?style=flat&logo=git&logoColor=white)
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300">
+<br>
+<br>
 ---
 
 ### 📊 GitHub Statistics
