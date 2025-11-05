@@ -2,7 +2,7 @@ README.md
 
 # 👋 Hello, I am Giorgi Varadashvili
 <br>
-    ![github](https://github.com/user-attachments/assets/1efa5f13-02c4-4bc6-8e54-e78632e3dec3)
+![github](https://github.com/user-attachments/assets/1efa5f13-02c4-4bc6-8e54-e78632e3dec3)
 <br>
 <br>
 💻 Full-Stack Developer (Frontend + Backend) 
