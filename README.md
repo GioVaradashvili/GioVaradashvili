@@ -6,7 +6,7 @@ README.md
 <br>
 <div align="left">
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" alt="Code Icon GIF"> 
-    <span style="font-size: 3em; font-weight: bold; margin-left: 20px;">SKILLS</span>
+    <span style="font-size: 3em; font-weight: bold; margin-left: 20px;"><h1>SKILLS</h1></span>
 </div>
 💻 Full-Stack Developer (Frontend + Backend)
 <br>
