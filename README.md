@@ -48,12 +48,12 @@ README.md
 
 ---
 
-### 📌 Featured Projects
-- **[Leaders-Exam-project](https://github.com/GioVaradashvili/Leaders-Exam-project)** → Leader's exam 
-- **[my-projects](https://github.com/GioVaradashvili/my-projects)** → Projects  
-- **[mentor-s-exam](https://github.com/GioVaradashvili/mentor-s-exam)** → Mentor's exam  
-- **[Mini-mentor-exam](https://github.com/GioVaradashvili/Mini-mentor-exam)** → Mini-Mentor exam
-
+> | 📌 **გამორჩეული პროექტები** (Featured Projects) |
+> | --------------------------------------------- |
+> | * 👑 **Leader's exam** -> `Leaders-Exam-project` |
+> | * 💼 **Projects** -> `my-projects` |
+> | * 🎓 **Mentor's exam** -> `mentor-s-exam` |
+> | * 💡 **Mini-Mentor exam** -> `Mini-mentor-exam` |
 ---
 
 ### 🌐 Contact me
