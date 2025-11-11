@@ -50,10 +50,10 @@ README.md
 
 > | 📌 **გამორჩეული პროექტები** (Featured Projects) |
 > | --------------------------------------------- |
-> | * 👑 **Leader's exam** -> `Leaders-Exam-project` |
-> | * 💼 **Projects** -> `my-projects` |
-> | * 🎓 **Mentor's exam** -> `mentor-s-exam` |
-> | * 💡 **Mini-Mentor exam** -> `Mini-mentor-exam` |
+> |  👑 **Leader's exam** -> `Leaders-Exam-project` |
+> |  💼 **Projects** -> `my-projects` |
+> |  🎓 **Mentor's exam** -> `mentor-s-exam` |
+> |  💡 **Mini-Mentor exam** -> `Mini-mentor-exam` |
 ---
 
 ### 🌐 Contact me
