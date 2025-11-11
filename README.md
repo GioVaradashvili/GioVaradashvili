@@ -3,7 +3,7 @@ README.md
 # 👋 Hello, I am Giorgi Varadashvili
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GioVaradashvili&label=Profile%20views&color=0e75b6&style=flat" alt="GioVaradashvili" /> </p>
 <br>
-![ ](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.gif?raw=true)
+![პროგრამისტი](https://user-images.githubusercontent.com/username/repo/some-cool-coding-gif.gif)
 <h1>SKILLS</h1>
 💻 Full-Stack Developer (Frontend + Backend)
 <br>
