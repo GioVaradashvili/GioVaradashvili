@@ -51,9 +51,9 @@ README.md
 
 > | 📌 **გამორჩეული პროექტები** (Featured Projects) |
 > | --------------------------------------------- |
-> |  👑 **Leader's exam** -> `Leaders-Exam-project` |
+> |  👑 **Leader's exam** -> `Leaders-Exam project` |
 > |  💼 **Projects** -> `my-projects` |
-> |  🎓 **Mentor's exam** -> `mentor-s-exam` |
+> |  🎓 **Mentor's exam** -> `mentor's exam` |
 > |  💡 **Mini-Mentor exam** -> `Mini-mentor-exam` |
 ---
 
