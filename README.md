@@ -40,14 +40,15 @@ README.md
 <br>
 <br>
 ---
-### 📊 GitHub სტატისტიკა
+### 📈 ჩემი GitHub სტატისტიკა (ტექსტური ფორმატი)
 
-![GioVaradashvili GitHub stats](https://github-readme-stats.vercel.app/api?username=GioVaradashvili_icons=true&theme=dark)
+[![GioVaradashvili's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile?username=GioVaradashvili&theme=monokai)](https://github.com/GioVaradashvili)
+
 ---
 
-### 💻 ტოპ გამოყენებული ენები
+### 🏆 მიღწევები
 
-![GioVaradashvili-ის ტოპ ენები](https://github-readme-stats.vercel.app/api/top-langs/?username=GioVaradashvili&layout=compact&theme=dark&token=GHP_XXXXXXX)
+[![GioVaradashvili's GitHub language stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GioVaradashvili&theme=monokai)](https://github.com/GioVaradashvili)
 
 ---
 
