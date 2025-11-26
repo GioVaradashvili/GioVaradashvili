@@ -43,9 +43,7 @@ README.md
 
 ### 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=GioVaradashvili&show_icons=true&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GioVaradashvili&layout=compact&theme=dark)
+![GioVaradashvili Github statistic](https://github-readme-stats.vercel.app/api?username=GioVaradashvili&show_icons=true&theme=dark)
 
 ---
 
