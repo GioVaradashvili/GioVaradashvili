@@ -42,8 +42,7 @@ README.md
 ---
 ### 📊 GitHub სტატისტიკა
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GioVaradashvili&show_icons=true&theme=dark)
-
+![GioVaradashvili GitHub stats](https://github-readme-stats.vercel.app/api?username=GioVaradashvili_icons=true&theme=dark)
 ---
 
 ### 💻 ტოპ გამოყენებული ენები
