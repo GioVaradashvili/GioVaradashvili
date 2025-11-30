@@ -45,6 +45,7 @@ README.md
 <h1>TOP USED LANGUAGE </h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioVaradashvili&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GioVaradashvili's GitHub Stats" />
 <br>
+<img width=400 src='https://streak-stats.demolab.com?user=GioVaradashvili&theme=dark&hide_border=true' />
 
 ---
 > | 📌 **გამორჩეული პროექტები** (Featured Projects) |
