@@ -60,10 +60,10 @@ README.md
 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/179490011?v=4" alt="Alex R. Avatar" width="60" height="60" style="float: left; margin-right: 15px;">
-  <h4>Alex R. (Lead Software Architect)</h4>
+  <h4>masterjaneza</h4>
 </p>
 
-> "The clean architecture and commitment to robust testing in **[Username]'s** repositories set a gold standard. Their contributions significantly advanced the speed and reliability of our recent project integration. A truly exceptional developer with a future-proof mindset."
+> ""I am truly impressed by **[GioVaradashvili]'s]** dedication and drive. They never give up on a challenge and consistently demonstrate a strong work ethic and profound responsibility. It was a huge honor and privilege for me to collaborate with them on this project.""
 >
 > 💡 **Rating:** ⭐⭐⭐⭐⭐
 
@@ -71,10 +71,10 @@ README.md
 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/155677343?v=4" alt="Sarah L. Avatar" width="60" height="60" style="float: left; margin-right: 15px;">
-  <h4>Sarah L. (Product Manager)</h4>
+  <h4>Vano Motiashvili</h4>
 </p>
 
-> "I appreciate the versatility shown across different technology stacks—from front-end brilliance to robust back-end logic. The dedication to writing thorough `README.md` files speaks volumes about his professional approach. A true asset to the developer community."
+> "Initially, I had my doubts about this project, as they faced some challenges, but they returned months later showing such remarkable strength and focus. Today, it is truly rare to find a programmer with their level of determination and skill."
 >
 > 🎯 **Rating:** ⭐⭐⭐⭐⭐
 
@@ -82,10 +82,10 @@ README.md
 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/157984962?v=4" alt="Nika T. Avatar" width="60" height="60" style="float: left; margin-right: 15px;">
-  <h4>Nika T. (Fellow Open Source Contributor)</h4>
+  <h4>Luka Gurgenidze</h4>
 </p>
 
-> "Collaborating on a recent bug fix with **[Username]** was a fantastic experience. Prompt responses, clear communication, and a deep technical understanding. The code contributions are always thoughtful and adhere to best practices. A top-tier coder!"
+> ""As a fellow Data Scientist, finding this individual was a breakthrough. We've been collaborating on projects ever since, consistently supporting each other in data analysis and analytics. I am truly proud to have discovered such a talented partner!""
 >
 > 👍 **Rating:** ⭐⭐⭐⭐⭐
 
@@ -93,10 +93,10 @@ README.md
 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/130844113?v=4" alt="Omar K. Avatar" width="60" height="60" style="float: left; margin-right: 15px;">
-  <h4>Omar K. (Data Science Lead)</h4>
+  <h4>Luka Tskhvaradze</h4>
 </p>
 
-> "The logical precision and efficient use of resources in the data processing scripts are outstanding. **[Username]'s** code is always meticulously structured, making it easy to understand and adapt for various use cases. A reliable source for clean, functional data solutions."
+> ""I have been in this field for many years, and [Username] (Giorgi) was my student. I wholeheartedly recommend him; he is one of the most diligent and dedicated individuals in his area. I'm incredibly proud of his progress.""
 >
 > 🧠 **Rating:** ⭐⭐⭐⭐⭐
 
@@ -104,10 +104,10 @@ README.md
 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/118875602?v=4" alt="Mei Chen Avatar" width="60" height="60" style="float: left; margin-right: 15px;">
-  <h4>Mei Chen (Security Auditor)</h4>
+  <h4>Giorgixmaladze</h4>
 </p>
 
-> "The proactive approach to security best practices, particularly regarding dependency management and input validation, is evident across the repositories. It's refreshing to see a developer who prioritizes security from the initial commit."
+> ""Giorgi and I were colleagues, but after a few months, he returned completely transformed. His focus shifted entirely to progress, and the results are clearly visible. His commitment to achieving results is truly inspiring.""
 >
 > ✅ **Rating:** ⭐⭐⭐⭐⭐
 
