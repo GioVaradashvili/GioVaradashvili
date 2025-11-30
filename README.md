@@ -27,27 +27,19 @@ README.md
 
 ---
 
-### 🚀 Tech Stack!
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=gray)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1572B6?style=flat&logo=js3&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=grey)
-![React](https://img.shields.io/badge/-React-F05032?style=flat&logo=react&logoColor=grey)
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300">
-<br>
-<br>
----
 <h1>GITHUB STATS</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=GioVaradashvili&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GioVaradashvili's GitHub Stats" />
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=GioVaradashvili&theme=dark&chart=bars" alt="GioVaradashvili's GitHub Stats" />
 <h1>TOP USED LANGUAGE </h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioVaradashvili&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GioVaradashvili's GitHub Stats" />
 <br>
+<h1>GITHUB STRIKES</h1>
 <img width=400 src='https://streak-stats.demolab.com?user=GioVaradashvili&theme=dark&hide_border=true' />
+<br>
+<h1>TOP REPOSITORIES</h1>
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=GioVaradashvili&type=top-repos&theme=dark" alt="GioVaradashvili's GitHub Stats" />
 
 ---
+
 > | 📌 **გამორჩეული პროექტები** (Featured Projects) |
 > | --------------------------------------------- |
 > |  👑 **Leader's exam** -> `Leaders-Exam project` |
