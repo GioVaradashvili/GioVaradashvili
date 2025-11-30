@@ -105,8 +105,27 @@ README.md
 > ✅ **Rating:** ⭐⭐⭐⭐⭐
 
 ---
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/43909789?v=4" alt="Mei Chen Avatar" width="60" height="60" style="float: left; margin-right: 15px;">
+  <h4>Nika Keshelava</h4>
+</p>
+
+> ""Giorgi joined Goal-Oriented Academy (GOA) in 2023, and from the very beginning, he was full of dedication and positivity. Today, he is a successful GOA mentor. GOA set him on the right path toward success and achieving his goals.""
+>
+> 💪 **Rating:** ⭐⭐⭐⭐⭐
 
 ---
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/145047546?v=4" alt="Mei Chen Avatar" width="60" height="60" style="float: left; margin-right: 15px;">
+  <h4>Ani Nozadze</h4>
+</p>
+
+> "I met Giorgi at GOA Academy and we quickly became friends. We always worked on our projects together and remain close to this day. I have so much love for Giorgi; our friendship is truly infinite! Best of luck, my dear friend!"
+>
+> 🌹 **Rating:** ⭐⭐⭐⭐⭐
+
+---
+
 <center> <h1> Commit's </h1> </center>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
