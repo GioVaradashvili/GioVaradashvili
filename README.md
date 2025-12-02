@@ -33,7 +33,7 @@ README.md
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioVaradashvili&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GioVaradashvili's GitHub Stats" />
 <br>
 <h1>GITHUB STRIKES</h1>
-<img width=400 src='!https://github-stats-card-generator.vercel.app/api/svg?username=GioVaradashvili&type=contributions&theme=dark' />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GioVaradashvili&theme=dark&hide_border=true" alt="GioVaradashvili's Streak Stats" />
 <br>
 <h1>TOP REPOSITORIES</h1>
 <img src="https://github-stats-card-generator.vercel.app/api/svg?username=GioVaradashvili&type=top-repos&theme=dark" alt="GioVaradashvili's GitHub Stats" />
