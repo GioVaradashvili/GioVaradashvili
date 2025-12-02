@@ -128,9 +128,8 @@ README.md
 ### GitHub Activity Overview
 
 <a href="https://github.com/GioVaradashvili">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GioVaradashvili&theme=default&hide_border=true&area=true" alt="GioVaradashvili's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GioVaradashvili&theme=transparent&hide_border=true&area=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="GioVaradashvili's Contribution Graph" />
 </a>
 
-<center> <h1> Commit's </h1> </center>
-
+<h1> Commit's </h1> </center>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
