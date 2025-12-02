@@ -128,7 +128,7 @@ README.md
 ### 📈 GitHub Activity Overview
 
 <a href="https://github.com/GioVaradashvili">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GioVaradashvili&theme=dark&hide_border=true&area=true" alt="GioVaradashvili's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GioVaradashvili&theme=dark&_border=true&area=true" alt="GioVaradashvili's Activity Graph" />
 </a>
 
 <center> <h1> Commit's </h1> </center>
