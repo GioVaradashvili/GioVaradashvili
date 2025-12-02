@@ -56,7 +56,7 @@ README.md
   <h4>masterjaneza</h4>
 </p>
 
-> ""I am truly impressed by **[GioVaradashvili]'s]** dedication and drive. They never give up on a challenge and consistently demonstrate a strong work ethic and profound responsibility. It was a huge honor and privilege for me to collaborate with them on this project.""
+> "I am truly impressed by **[GioVaradashvili]'s]** dedication and drive. They never give up on a challenge and consistently demonstrate a strong work ethic and profound responsibility. It was a huge honor and privilege for me to collaborate with them on this project."
 >
 > 💡 **Rating:** ⭐⭐⭐⭐⭐
 
@@ -78,7 +78,7 @@ README.md
   <h4>Luka Gurgenidze</h4>
 </p>
 
-> ""As a fellow Data Scientist, finding this individual was a breakthrough. We've been collaborating on projects ever since, consistently supporting each other in data analysis and analytics. I am truly proud to have discovered such a talented partner!""
+> "As a fellow Data Scientist, finding this individual was a breakthrough. We've been collaborating on projects ever since, consistently supporting each other in data analysis and analytics. I am truly proud to have discovered such a talented partner!"
 >
 > 👍 **Rating:** ⭐⭐⭐⭐⭐
 
@@ -89,7 +89,7 @@ README.md
   <h4>Luka Tskhvaradze</h4>
 </p>
 
-> ""I have been in this field for many years, and [Username] (Giorgi) was my student. I wholeheartedly recommend him; he is one of the most diligent and dedicated individuals in his area. I'm incredibly proud of his progress.""
+> "I have been in this field for many years, and [Username] (Giorgi) was my student. I wholeheartedly recommend him; he is one of the most diligent and dedicated individuals in his area. I'm incredibly proud of his progress.""
 >
 > 🧠 **Rating:** ⭐⭐⭐⭐⭐
 
@@ -100,7 +100,7 @@ README.md
   <h4>Giorgixmaladze</h4>
 </p>
 
-> ""Giorgi and I were colleagues, but after a few months, he returned completely transformed. His focus shifted entirely to progress, and the results are clearly visible. His commitment to achieving results is truly inspiring.""
+> ""Giorgi and I were colleagues, but after a few months, he returned completely transformed. His focus shifted entirely to progress, and the results are clearly visible. His commitment to achieving results is truly inspiring."
 >
 > ✅ **Rating:** ⭐⭐⭐⭐⭐
 
@@ -110,20 +110,20 @@ README.md
   <h4>Nika Keshelava</h4>
 </p>
 
-> ""Giorgi joined Goal-Oriented Academy (GOA) in 2023, and from the very beginning, he was full of dedication and positivity. Today, he is a successful GOA mentor. GOA set him on the right path toward success and achieving his goals.""
+> "Giorgi joined Goal-Oriented Academy (GOA) in 2023, and from the very beginning, he was full of dedication and positivity. Today, he is a successful GOA mentor. GOA set him on the right path toward success and achieving his goals."
 >
 > 💪 **Rating:** ⭐⭐⭐⭐⭐
 
 ---
 
-<!-- <p align="left">                                                                                                                                                                                                                       
+ <p align="left">                                                                                                                                                                                                                       
   <img src="https://avatars.githubusercontent.com/u/145047546?v=4" alt="Mei Chen Avatar" width="60" height="60" style="float: left; margin-right: 15px;">
   <h4>Ani Nozadze</h4>
 </p>
 
 > "I met Giorgi at GOA Academy and we quickly became friends. We always worked on our projects together and remain close to this day. I have so much love for Giorgi; our friendship is truly infinite! Best of luck, my dear friend!"
 >
-> 🌹 **Rating:** ⭐⭐⭐⭐⭐ -->
+> 🌹 **Rating:** ⭐⭐⭐⭐⭐
 
 <center> <h1> Commit's </h1> </center>
 
