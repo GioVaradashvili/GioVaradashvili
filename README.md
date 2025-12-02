@@ -26,7 +26,6 @@ README.md
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 
 ---
-
 <h1>GITHUB STATS</h1>
 <img src="https://github-stats-card-generator.vercel.app/api/svg?username=GioVaradashvili&theme=dark&chart=bars" alt="GioVaradashvili's GitHub Stats" />
 <h1>TOP USED LANGUAGE </h1>
