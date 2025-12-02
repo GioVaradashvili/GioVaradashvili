@@ -1,7 +1,7 @@
 README.md
 <br>
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, I am Giorgi Varadashvili
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GioVaradashvili&label=Profile%20views&color=0e75b6&style=flat" alt="GioVaradashvili" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GioVaradashvili&label=Profile%20views&color=000000&style=flat" alt="GioVaradashvili" /> </p>
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <h1>SKILLS</h1>
@@ -21,6 +21,7 @@ README.md
 🎯 Goal-Oriented Academy: Mentor's Assistant, Crew Leader, Mini-Mentor, Mini-Leader Controller
 <br>
 📍 Kvareli, Georgia  
+
 
 ---
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
