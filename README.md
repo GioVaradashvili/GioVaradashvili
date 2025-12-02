@@ -125,6 +125,12 @@ README.md
 >
 > 🌹 **Rating:** ⭐⭐⭐⭐⭐
 
+### 📈 GitHub Activity Overview
+
+<a href="https://github.com/GioVaradashvili">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GioVaradashvili&theme=dark&hide_border=true&area=true" alt="GioVaradashvili's Activity Graph" />
+</a>
+
 <center> <h1> Commit's </h1> </center>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
