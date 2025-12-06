@@ -30,7 +30,7 @@ README.md
 <h1>GITHUB STATS</h1>
 <img src="https://github-stats-card-generator.vercel.app/api/svg?username=GioVaradashvili&theme=dark&chart=bars" alt="GioVaradashvili's GitHub Stats" />
 <h1>TOP USED LANGUAGE </h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioVaradashvili&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GioVaradashvili's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioVaradashvili&theme=dark&show_icons=true&hide_border=true&layout=compact&exclude_repo=repository_name1,repository_name2" alt="GioVaradashvili's GitHub Stats" />
 <br>
 <h1>GITHUB STRIKES</h1>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GioVaradashvili&theme=dark&hide_border=true" alt="GioVaradashvili's Streak Stats" />
