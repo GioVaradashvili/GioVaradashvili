@@ -30,27 +30,21 @@ README.md
 <h1>GITHUB STATS</h1>
 <img src="https://github-stats-card-generator.vercel.app/api/svg?username=GioVaradashvili&theme=dark&chart=bars" alt="GioVaradashvili's GitHub Stats" />
 <h1>TOP USED LANGUAGE </h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioVaradashvili&theme=dark&show_icons=true&hide_border=true&layout=compact&exclude_repo=repository_name1,repository_name2" alt="GioVaradashvili's GitHub Stats" />
+<img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> 
+<img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
+<img src= "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
+<img src= "https://img.shields.io/badge/react-%232C2D72.svg?style=for-the-badge&logo=react&logoColor=white" />
 <br>
 <h1>GITHUB STRIKES</h1>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GioVaradashvili&theme=dark&hide_border=true" alt="GioVaradashvili's Streak Stats" />
 <br>
 <h1>TOP REPOSITORIES</h1>
-<img src="https://github-stats-card-generator.vercel.app/api/svg?username=GioVaradashvili&type=top-repos&theme=dark" alt="GioVaradashvili's GitHub Stats" />
-
----
-
-> | 📌 **გამორჩეული პროექტები** (Featured Projects) |
-> | --------------------------------------------- |
-> |  👑 **Leader's exam** -> `Leaders-Exam project` |
-> |  💼 **Projects** -> `my-projects` |
-> |  🎓 **Mentor's exam** -> `mentor's exam` |
-> |  💡 **Mini-Mentor exam** -> `Mini-mentor-exam` |
----
-### 🌟 What The Community Says About My Work
-
----
-
+<br>
+<img src ="https://github-profile-trophy.vercel.app/?username=GioVaradashvili&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
+<br>
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/179490011?v=4" alt="Alex R. Avatar" width="60" height="60" style="float: left; margin-right: 15px;">
   <h4>masterjaneza</h4>
