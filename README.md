@@ -50,7 +50,7 @@ README.md
   <h4>masterjaneza</h4>
 </p>
 
-> "I am truly impressed by **[GioVaradashvili]'s]** dedication and drive. They never give up on a challenge and consistently demonstrate a strong work ethic and profound responsibility. It was a huge honor and privilege for me to collaborate with them on this project."
+> "I am truly impressed by **GioVaradashvili's** dedication and drive. They never give up on a challenge and consistently demonstrate a strong work ethic and profound responsibility. It was a huge honor and privilege for me to collaborate with them on this project."
 >
 > 💡 **Rating:** ⭐⭐⭐⭐⭐
 
@@ -83,7 +83,7 @@ README.md
   <h4>Luka Tskhvaradze</h4>
 </p>
 
-> "I have been in this field for many years, and [Username] (Giorgi) was my student. I wholeheartedly recommend him; he is one of the most diligent and dedicated individuals in his area. I'm incredibly proud of his progress.""
+> "I have been in this field for many years, and Giorgi was my student. I wholeheartedly recommend him; he is one of the most diligent and dedicated individuals in his area. I'm incredibly proud of his progress.""
 >
 > 🧠 **Rating:** ⭐⭐⭐⭐⭐
 
