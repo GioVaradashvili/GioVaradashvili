@@ -28,23 +28,33 @@ README.md
 
 ---
 <h1>GITHUB STATS</h1>
-<img src="https://github-stats-card-generator.vercel.app/api/svg?username=GioVaradashvili&theme=dark&chart=bars" alt="GioVaradashvili's GitHub Stats" />
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=GioVaradashvili&theme=dark&show_icons=true&count_private=true">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=GioVaradashvili&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=GioVaradashvili&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<br>
 <h1>TOP USED LANGUAGE </h1>
-<img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> 
-<img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
-<img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
-<img src= "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
-<img src= "https://img.shields.io/badge/react-%232C2D72.svg?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
+<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
+<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white"> 
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"> 
 <br>
-<h1>GITHUB STRIKES</h1>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GioVaradashvili&theme=dark&hide_border=true" alt="GioVaradashvili's Streak Stats" />
-<br>
-<h1>TOP REPOSITORIES</h1>
-<br>
-<img src ="https://github-profile-trophy.vercel.app/?username=GioVaradashvili&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
-<br>
+<h1>WHAT PEOPLE THINK ABOUT ME</h1>
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/179490011?v=4" alt="Alex R. Avatar" width="60" height="60" style="float: left; margin-right: 15px;">
   <h4>masterjaneza</h4>
