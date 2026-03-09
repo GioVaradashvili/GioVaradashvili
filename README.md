@@ -1,6 +1,6 @@
 README.md
 <br>
-<img align="right" height="151" src="https://avatars.githubusercontent.com/u/151828006?v=4"  />
+<img align="left" height="151" src="https://avatars.githubusercontent.com/u/GioVaradashvili"  />
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, I am Giorgi Varadashvili
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GioVaradashvili&label=profile%20views&color=000000&style=flat" alt="profile views" /> </p>
 <br>
