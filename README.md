@@ -46,8 +46,6 @@ README.md
 <br>
 <img src ="https://github-profile-trophy.vercel.app/?username=GioVaradashvili&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
 <br>
-[![Spotify](https://novatorem-spotify-readme.vercel.app/api/now-playing?username=GiorgiVaradashvili_Spotify_ID&type=compact)](https://open.spotify.com/user/GiorgiVaradashvili_Spotify_ID)
-<br>
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/179490011?v=4" alt="Alex R. Avatar" width="60" height="60" style="float: left; margin-right: 15px;">
   <h4>masterjaneza</h4>
