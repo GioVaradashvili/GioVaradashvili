@@ -127,3 +127,5 @@ README.md
 
 <h1> Commit's </h1> </center>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+
+<h1> </> V A R A D A ON TOP!!! </> </h1>
