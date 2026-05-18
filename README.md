@@ -30,7 +30,8 @@ README.md
 <h1>GITHUB STATS</h1>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GioVaradashvili&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="GioVaradashvili's GitHub Stats" />
 <h1>TOP USED LANGUAGE </h1>
-
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GioVaradashvili&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
 <br>
 <h1>GITHUB STRIKES</h1>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GioVaradashvili&theme=dark&hide_border=true" alt="GioVaradashvili's Streak Stats" />
