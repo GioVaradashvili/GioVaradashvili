@@ -28,7 +28,7 @@ README.md
 
 ---
 <h1>GITHUB STATS</h1>
-<img src="https://github-stats-card-generator.vercel.app/api/svg?username=GioVaradashvili&theme=dark&chart=bars" alt="GioVaradashvili's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GioVaradashvili&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="GioVaradashvili's GitHub Stats" />
 <h1>TOP USED LANGUAGE </h1>
 <img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> 
 <img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
