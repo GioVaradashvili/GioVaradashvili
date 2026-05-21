@@ -5,18 +5,9 @@ README.md
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br>
 <h1>SKILLS</h1>
-💻 Full-Stack Developer (Frontend + Backend)
 <br>
-🎨 Graphic Desginer (Canva + Figma)
+<img src="https://stats.pphat.top/languages?username=GioVaradashvili"
 <br>
-🤖 AI (C + C# + C++)
-<br>
-🎮 Game Developer (Lua + Unity)
-<br>
-📃 Data Sientistist (Excel + docs)
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
 <br>
 🎯 Goal-Oriented Academy: Mentor's Assistant, Crew Leader, Mini-Mentor, Mini-Leader Controller
 <br>
@@ -121,6 +112,4 @@ README.md
 </a>
 
 <h1> Commit's </h1> </center>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-
-<center> <h1> </> V A R A D A ON TOP!!! </> </h1> </center>
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
