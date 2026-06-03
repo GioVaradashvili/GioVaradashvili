@@ -114,4 +114,4 @@ README.md
 <h1> Commit's </h1> </center>
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
 
-src="(https://github-readme-streak-stats.herokuapp.com/?user=GioVaradashvili&theme=tokyonight)"
+src="https://github-readme-streak-stats.herokuapp.com/?user=GioVaradashvili&theme=tokyonight"
