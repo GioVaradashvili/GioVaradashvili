@@ -113,3 +113,10 @@ README.md
 
 <h1> Commit's </h1> </center>
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
+
+<p align="center">
+  <a href="https://clustrmaps.com/site/1bxxx" title="Visit Tracker">
+    <img src="https://www.clustrmaps.com/map_v2.png?d=შენი_კოდი&cl=ffffff&w=400" />
+  </a>
+</p>
+
