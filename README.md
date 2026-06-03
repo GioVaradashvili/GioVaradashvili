@@ -115,6 +115,13 @@ README.md
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Visitors&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FGioVaradashvili%2Fvisits&color=ff00ff&style=for-the-badge&logo=github" alt="Visitors">
+  <a href="https://github.com/GioVaradashvili">
+    <img src="https://github-profile-trophy.vercel.app/?username=GioVaradashvili&theme=tokyonight&row=1" alt="Trophies" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/GioVaradashvili">
+    <img src="https://my-globe-service.vercel.app/api?username=GioVaradashvili" alt="Gio's Globe" width="400" />
+  </a>
+</p>
