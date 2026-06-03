@@ -113,3 +113,6 @@ README.md
 
 <h1> Commit's </h1> </center>
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
+
+[![Capsule](https://github-readme-capsule.vercel.g9.cz/api?username=GioVaradashvili&theme=dark)](https://github.com/GioVaradashvili)
+
