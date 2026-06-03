@@ -115,13 +115,5 @@ README.md
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
 
 <p align="center">
-  <a href="https://github.com/GioVaradashvili">
-    <img src="https://github-profile-trophy.vercel.app/?username=GioVaradashvili&theme=tokyonight&row=1" alt="Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/GioVaradashvili">
-    <img src="https://my-globe-service.vercel.app/api?username=GioVaradashvili" alt="Gio's Globe" width="400" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-Manifestation/master/Globes/Globe_3.gif" width="250" alt="3D Spinning Globe">
 </p>
