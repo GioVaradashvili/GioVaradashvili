@@ -113,3 +113,8 @@ README.md
 
 <h1> Commit's </h1> </center>
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GioVaradashvili&theme=tokyonight" alt="Gio's Activity Graph" width="100%" />
+</p>
+
