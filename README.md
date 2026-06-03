@@ -111,5 +111,12 @@ README.md
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GioVaradashvili&theme=transparent&hide_border=true&area=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="GioVaradashvili's Contribution Graph" />
 </a>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;GOA+Leader;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+
 <h1> Commit's </h1> </center>
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
