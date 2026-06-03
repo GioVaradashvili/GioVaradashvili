@@ -113,10 +113,3 @@ README.md
 
 <h1> Commit's </h1> </center>
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;GOA+Leader;Tech+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
