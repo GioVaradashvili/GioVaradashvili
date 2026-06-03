@@ -116,7 +116,6 @@ README.md
 
 <p align="center">
   <a href="https://github.com/GioVaradashvili">
-    <img src="https://vortex.accuweather.com/adcimages/cartoons/globe.gif" width="150" alt="Globe" style="vertical-align: middle; margin-right: 15px;" />
-    <img src="https://profile-counter.glitch.me/GioVaradashvili/count.svg" alt="Visitor Count" style="vertical-align: middle;" />
+    <img src="https://github-profile-visitor-counter.vercel.app/api?username=GioVaradashvili&theme=dark" alt="Geographic Visitors" />
   </a>
 </p>
