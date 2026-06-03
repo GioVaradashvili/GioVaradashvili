@@ -115,5 +115,6 @@ README.md
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-Manifestation/master/Globes/Globe_3.gif" width="250" alt="3D Spinning Globe">
+  <img src="./globe.gif" width="220" alt="3D Spinning Globe">
 </p>
+
