@@ -29,7 +29,7 @@ README.md
 <br>
 <h1>TOP REPOSITORIES</h1>
 <br>
-<img src ="https://github-profile-trophy.vercel.app/?username=GioVaradashvili&theme=dark&no-frame=false&no-bg=true&margin-w=5" />
+<img src ="https://github-profile-trophy.vercel.app/?username=GioVaradashvili&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
 <br>
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/179490011?v=4" alt="Alex R. Avatar" width="60" height="60" style="float: left; margin-right: 15px;">
