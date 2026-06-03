@@ -113,7 +113,3 @@ README.md
 
 <h1> Commit's </h1> </center>
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GioVaradashvili&theme=tokyonight" alt="Gio's Streak Stats" />
-</p>
