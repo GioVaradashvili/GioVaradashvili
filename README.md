@@ -113,7 +113,3 @@ README.md
 
 <h1> Commit's </h1> </center>
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GioVaradashvili/GioVaradashvili/master/profile-3d-contrib/profile-night-rainbow.svg" alt="Gio's 3D Contributions" width="100%">
-</p>
