@@ -115,5 +115,5 @@ README.md
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Gio's 3D Contributions" width="100%">
+  <img src="https://raw.githubusercontent.com/GioVaradashvili/GioVaradashvili/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Gio's 3D Contributions" width="100%">
 </p>
